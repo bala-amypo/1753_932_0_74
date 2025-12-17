@@ -41,7 +41,7 @@ public StudentEntity(){
     return this.email;
  }
 
- public void setCgpa(String cgpa){
+ public void setCgpa(float cgpa){
     this.cgpa=cgpa;
  }
 
