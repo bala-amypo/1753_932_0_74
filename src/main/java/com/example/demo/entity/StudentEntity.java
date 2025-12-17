@@ -4,11 +4,11 @@ import jakarta.persistence.Entity;
 
 @Entity
 public class StudentEntity{
-       int id;
-       String name;
-       String email;
-       float cgpa;
-       String department;
-       
+       private Long id;
+       private String name;
+       private String email;
+       private float cgpa;
+       private String department;
+
 
 }
