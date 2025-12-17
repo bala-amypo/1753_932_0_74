@@ -49,3 +49,4 @@ public class StudentEntity {
     public float getCgpa() {
         return this.cgpa;
     }
+}
