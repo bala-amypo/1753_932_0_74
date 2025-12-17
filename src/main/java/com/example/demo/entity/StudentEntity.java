@@ -50,4 +50,3 @@ public class StudentEntity {
         return this.cgpa;
     }
 }
-ran-mzts-mvq
